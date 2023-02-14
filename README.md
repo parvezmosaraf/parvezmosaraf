@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mdparvezmosaraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdparvezmosaraf" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-parvez-mosaraf-67a95817a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-parvez-mosaraf-67a95817a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-parvez-mosaraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-parvez-mosaraf" height="30" width="40" /></a>
 <a href="https://kaggle.com/parvezalmuqtadir2348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="parvezalmuqtadir2348" height="30" width="40" /></a>
 <a href="https://fb.com/parvezalmuqtadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parvezalmuqtadir" height="30" width="40" /></a>
 <a href="https://instagram.com/parvezalmuqtadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parvezalmuqtadir" height="30" width="40" /></a>
