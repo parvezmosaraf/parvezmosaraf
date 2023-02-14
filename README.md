@@ -32,7 +32,7 @@
 <a href="https://kaggle.com/parvezalmuqtadir2348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="parvezalmuqtadir2348" height="30" width="40" /></a>
 <a href="https://fb.com/parvezalmuqtadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parvezalmuqtadir" height="30" width="40" /></a>
 <a href="https://instagram.com/parvezalmuqtadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parvezalmuqtadir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucuvvx-igkn9qadm30djq6ta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucuvvx-igkn9qadm30djq6ta" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucuvvx-igkn9qadm30djq6ta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucuvvx-igkn9qadm30djq6ta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
